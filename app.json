@@ -2,7 +2,7 @@
     "name": "Toxic-MD Pairing",
     "description": "Toxic-MD WA bot, Created by xhclinton",
     "logo": "https://i.ibb.co/3MZpcvr/2fec156e2320d733.jpg",
-    "repository": "https://github.com/xhclintohn/TOXIC-PAIR-CODE",
+    "repository": "https://github.com/NjabuloJf/fana-qr",
     "keywords": ["LegacyMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
